@@ -1,3 +1,6 @@
+'''Скрипт для создания и заболения бд'''
+
+
 import pandas as pd
 import time
 import pyodbc
