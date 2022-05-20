@@ -1,3 +1,6 @@
+'''Скрипт для создания и заболения бд'''
+
+
 import chek_df
 import pyodbc
 import pandas as pd
