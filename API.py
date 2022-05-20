@@ -1,4 +1,4 @@
-'''Скрипт для вывода данных в файл take_info.txt'''
+'''Скрипт для вывода данных в take_info.txt'''
 
 
 import pandas as pd
